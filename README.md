@@ -1,5 +1,5 @@
 # Decision-Tree_Company-Data
-ecision Tree
+Decision Tree
  
 Assignment
 
